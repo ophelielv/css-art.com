@@ -1,0 +1,22 @@
+{
+    "name": "hamilton-street-css-art",
+    "version": "1.0.0",
+    "title": "Hamilton street CSS art",
+    "description": "Richard Rodgers' Theater - Pure CSS in pure CSS",
+    "author": {
+        "name": "Ophélie Le Vigouroux",
+        "web": "https://ophelielevigouroux.vercel.app/",
+        "social": [{
+            "title": "Github",
+            "url": "https://github.com/ophelielv"
+        }]
+    },
+    "html": "hamilton-street.html",
+    "css": ["hamilton-street.css"],
+    "js": "",
+    "thumbnail": "thumbnail.png",
+    "splash": "splash.png",
+    "keywords": ["animated", "css", "hamilton", "Richard", "Rodgers", "Theater", "keyframe"],
+    "original": "https://codepen.io/jotavejv/pen/VzyaeV",
+    "codepen": "https://codepen.io/jotavejv/pen/VzyaeV"
+}
